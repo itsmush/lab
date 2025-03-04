@@ -1,0 +1,5 @@
+environment = "Lab"
+vpc_cidr_block = "20.0.0.0/16"
+web_subnet = "20.0.10.0/24"
+subnet_zone = "eu-west-1a"
+main_vpc_name = "MainVeePeeC"
